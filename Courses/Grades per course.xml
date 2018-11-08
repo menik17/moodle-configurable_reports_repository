@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <report version="2016020103"><visible><![CDATA[1]]></visible>
 <name><![CDATA[Grades per course]]></name>
-<summary><![CDATA[<p>grades per course - how many have received the maximum grade, how many have not
-received the maximum grade<br></p>]]></summary>
+<summary><![CDATA[<p>grades per course - how many have received the maximum grade, how many have not&#010;received the maximum grade<br></p>]]></summary>
 <type><![CDATA[sql]]></type>
 <pagination><![CDATA[0]]></pagination>
 <components><![CDATA[YTo0OntzOjk6ImN1c3RvbXNxbCI7YToxOntzOjY6ImNvbmZpZyI7Tzo4OiJzdGRDbGFzcyI6Njp7czo4OiJxdWVyeXNxbCI7czo2MDE6IlNFTEVDVCtpZiUyOGdnLmZpbmFsZ3JhZGUraXMrbm90K251bGwlMkNpZislMjhnZy5maW5hbGdyYWRlKyUzRSswJTJDaWYrJTI4Z2cuZmluYWxncmFkZSslM0QrZ2cucmF3Z3JhZGVtYXglMkMlMjdtYXglMjclMkMlMjdub3QrbWF4JTI3JTI5JTJDJTI3bm90K21heCUyNyUyOSUyQyUyN25vdCttYXglMjclMjkrYXMrJTI3aXNtYXglMjclMkNjb3VudCUyOGRpc3RpbmN0K3UuaWQlMjkrYXMrJTI3Y291bnQlMjclMEQlMEFGUk9NK3ByZWZpeF91c2VyK3UlMEQlMEFsZWZ0K2pvaW4rcHJlZml4X2dyYWRlX2dyYWRlcytnZytvbitnZy51c2VyaWQrJTNEK3UuaWQlMEQlMEFsZWZ0K2pvaW4rcHJlZml4X2dyYWRlX2l0ZW1zK2dpK29uK2dnLml0ZW1pZCslM0QrZ2kuaWQrYW5kK2dpLml0ZW10eXBlKyUzRCslMjdjb3Vyc2UlMjclMEQlMEF3aGVyZSsxKyUyNSUyNUZJTFRFUl9DT1VSU0VFTlJPTExFRFNUVURFTlRTJTNBdS5pZCUyNSUyNSslMjUlMjVGSUxURVJfU1RBUlRUSU1FJTNBZ2cudGltZW1vZGlmaWVkJTNBJTNFJTI1JTI1KyUyNSUyNUZJTFRFUl9FTkRUSU1FJTNBZ2cudGltZW1vZGlmaWVkJTNBJTNDJTI1JTI1JTBEJTBBZ3JvdXArYnkraXNtYXglMEQlMEEiO3M6ODoiY291cnNlaWQiO2k6MjtzOjEyOiJzdWJtaXRidXR0b24iO3M6MTI6IlNhdmUrY2hhbmdlcyI7czoxNjoicmVwb3J0Y2F0ZWdvcmllcyI7czoxOiIwIjtzOjE3OiJyZXBvcnRzaW5jYXRlZ29yeSI7czoxOiIwIjtzOjE0OiJyZW1vdGVxdWVyeXNxbCI7czowOiIiO319czoxMToicGVybWlzc2lvbnMiO2E6MTp7czo2OiJjb25maWciO086ODoic3RkQ2xhc3MiOjE6e3M6MTM6ImNvbmRpdGlvbmV4cHIiO3M6MDoiIjt9fXM6NzoiY2hhcnRqcyI7YToxOntzOjg6ImVsZW1lbnRzIjthOjE6e2k6MDthOjU6e3M6MjoiaWQiO3M6MTU6IkNmNEM2Q1k1Y0FZSWV4QSI7czo4OiJmb3JtZGF0YSI7Tzo4OiJzdGRDbGFzcyI6NTp7czoxMToibGFiZWxfZmllbGQiO3M6OToiMCUyQ2lzbWF4IjtzOjEyOiJ2YWx1ZV9maWVsZHMiO2E6MTp7aTowO3M6OToiMSUyQ2NvdW50Ijt9czo1OiJ3aWR0aCI7aTo5MDA7czo2OiJoZWlnaHQiO2k6NTAwO3M6MTI6InN1Ym1pdGJ1dHRvbiI7czozOiJBZGQiO31zOjEwOiJwbHVnaW5uYW1lIjtzOjEwOiJjaGFydGpzcGllIjtzOjE0OiJwbHVnaW5mdWxsbmFtZSI7czozOiJQaWUiO3M6Nzoic3VtbWFyeSI7czoxMToiQStwaWUrZ3JhcGgiO319fXM6NzoiZmlsdGVycyI7YToxOntzOjg6ImVsZW1lbnRzIjthOjE6e2k6MDthOjU6e3M6MjoiaWQiO3M6MTU6Ing2cW9YTDVQb3kzYnJGVSI7czo4OiJmb3JtZGF0YSI7Tzo4OiJzdGRDbGFzcyI6MDp7fXM6MTA6InBsdWdpbm5hbWUiO3M6MTI6InN0YXJ0ZW5kdGltZSI7czoxNDoicGx1Z2luZnVsbG5hbWUiO3M6MjU6IlN0YXJ0KyUyRitFbmQrZGF0ZStmaWx0ZXIiO3M6Nzoic3VtbWFyeSI7czoyNToiU3RhcnQrJTJGK0VuZCtkYXRlK2ZpbHRlciI7fX19fQ==]]></components>
-<export><![CDATA[]]></export>
+<export><![CDATA[pdf,]]></export>
 <jsordering><![CDATA[1]]></jsordering>
 <global><![CDATA[0]]></global>
-<lastexecutiontime><![CDATA[2]]></lastexecutiontime>
+<lastexecutiontime><![CDATA[3]]></lastexecutiontime>
 <cron><![CDATA[0]]></cron>
 <remote><![CDATA[0]]></remote>
 </report>
